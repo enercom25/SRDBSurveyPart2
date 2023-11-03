@@ -3,5 +3,3 @@ This page lists the links to the 4 appendices (A, B, C, D) referenced in the pap
 
 ## Appendix-A: https://github.com/enercom25/SRDBSurveyPart2/blob/main/Appendix-A.pdf
 ## Appendix-B: https://github.com/enercom25/SRDBSurveyPart2/blob/main/Appendix-B.pdf
-## Appendix-C: https://github.com/enercom25/SRDBSurveyPart2/blob/main/Appendix-C.pdf
-## Appendix-D: https://github.com/enercom25/SRDBSurveyPart2/blob/main/Appendix-D.pdf
