@@ -3,3 +3,4 @@ This page lists the links to the 2 appendices (A, B) referenced in the paper *Sa
 
 ## Appendix-A: https://github.com/enercom25/SRDBSurveyPart2/blob/main/Appendix-A.pdf
 ## Appendix-B: https://github.com/enercom25/SRDBSurveyPart2/blob/main/Appendix-B.pdf
+## Appendix-B: https://github.com/enercom25/SRDBSurveyPart2/blob/main/Appendix-C.pdf
